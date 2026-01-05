@@ -7,14 +7,14 @@ KestronProgramming is where ethically responsible projects can be found. We make
 
 # Current Projects
 
-## Stewbot
+## [Stewbot](https://github.com/KestronProgramming/Stewbot)
 Stewbot aims to be the ultimate Discord bot, and the only bot you'll ever need. It does everything from moderation to entertainment, and adds tons of Quality of Life enhancements.
 
-## MiiJS
+## [MiiJS](https://github.com/KestronProgramming/MiiJS)
 MiiJS is the best NPM package to allow you to work fully with Nintendo Mii characters from your Node.js project.
 
-## Sleuth
+## [Sleuth](https://github.com/KestronProgramming/Sleuth)
 Sleuth is a search engine that takes results from the biggest search engines and averages the results, acting as a proxy to help privatize your searches while also helping combat sponsored results and give you the results all of the search engines agree are relevant to you.
 
-## InfiniMii
+## [InfiniMii](https://github.com/KestronProgramming/InfiniMii)
 InfiniMii is a WIP website soon to be released that will let you leverage all of the many powerful tools MiiJS provides from a website GUI, in addition to sharing and downloading other people's Miis.
